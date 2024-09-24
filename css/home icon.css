@@ -1,0 +1,22 @@
+<style>
+    nav{
+        background-color: black;
+        color: white;
+    }
+    li,h1,ul{
+        display: inline;
+    }
+    ul{
+        margin: 60%;
+    }
+</style>
+<nav>
+    <h1>
+        mugunthan
+    </h1>
+    <ul>
+        <li>home</li>
+        <li>about</li>
+        <li>contact</li>
+    </ul>
+</nav>
